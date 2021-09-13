@@ -30,6 +30,6 @@ committed correctly.
 ---
 ## Fill in the details below
 
-Your name: 
+Your name: Bryden Hiscock
 
-Your email id:
+Your email id: bhiscock@unb.ca
